@@ -1,5 +1,4 @@
 # SteamRecorder
-========================
 [![Build Status](https://travis-ci.org/zeruniverse/SteamRecorder.svg?branch=master)](https://travis-ci.org/zeruniverse/SteamRecorder)
 ![Release](https://img.shields.io/github/release/zeruniverse/SteamRecorder.svg)
 ![Environment](https://img.shields.io/badge/python-2.6, 2.7-blue.svg)
